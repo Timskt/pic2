@@ -1,4 +1,0 @@
-cd C:\Users\sky\Desktop\图\新建文件夹\pic2
-git add .
-git commit -m "提交图片"
-git push
